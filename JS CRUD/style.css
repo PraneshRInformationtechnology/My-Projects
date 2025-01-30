@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:sans-serif;
+}
+div{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+h1{
+   text-align: center;
+   padding: 5px 10px;
+}
+#form1{
+    text-align: center;
+    margin-bottom: 20px;
+}
+table,td,th,tr{
+    border: 1px solid #ccc;
+}
+td,th{
+    padding: 5px;
+}
+#btn{
+    background-color: lightgreen;
+    border: none;
+    padding: 7px 10px;
+    width: 100%;
+    border-radius: 10px;
+}
+
+#btn:hover{
+    background-color: rgb(120, 187, 120);
+}
+#del{
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 5px;
+}
+#del:hover{
+    background-color: rgb(167, 100, 100);
+}

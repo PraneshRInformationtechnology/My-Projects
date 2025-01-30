@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div>
+
+    <h1>STUDENT FORM</h1>
+    
+    <form id="form1">
+        <table id="table1">
+            <tr>
+                <th>Name</th>
+                <td><input type="text" id="name" required></td>
+            </tr>
+            <tr>
+                <th>Age</th>
+                <td><input type="number" id="age" required></td>
+            </tr>
+            <tr>
+                <th>Gender</th>
+                <td><input name="gen" type="radio" value="Male">Male <input name="gen" type="radio" value="Female">Female</td>
+            </tr>
+            <tr>
+                <th>Course</th>
+                <td>
+                    <select id="course">
+                        <option value="JavaScript">JavaScript</option>
+                        <option value="HTML">HTML</option>
+                        <option value="CSS">CSS</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <th>Email</th>
+                <td><input id="email" type="text"></td>
+            </tr>
+            <tr><td colspan="2"><input type="submit" id="btn" onclick="handeleChange(event)"></td></tr>
+           
+        </table>
+        
+        </form>
+        <table id="table2">
+            <tr>
+                <th>Name</th>
+                <th>Age</th>
+                <th>Gender</th>
+                <th>Course</th>
+                <th>Email</th>
+                <th>Action</th>
+            </tr>
+           
+        </table>
+    </div>
+    <script>
+      function handeleChange(event){
+        event.preventDefault();
+        let name=document.getElementById("name").value;
+        let age=document.getElementById("age").value;
+        let gender=document.getElementsByName("gen");
+        let gv;
+        for(let i = 0 ; i < gender.length ; i++){
+            if(gender[i].checked){
+                gv=gender[i].value;
+            }
+        }
+        console.log(gv);
+        let Course=document.getElementById("course").value;
+        let email=document.getElementById("email").value;
+        let table2=document.getElementById("table2");
+        let tr=document.createElement("tr");
+        tr.innerHTML=`<td>${name}</td><td>${age}</td><td>${gv}</td><td>${Course}</td><td>${email}</td><td><button onclick="deleted(event)"id="del">delete</button></td>`;
+        table2.append(tr);
+        
+      }
+      function deleted(event){
+        event.target.parentElement.parentElement.remove();
+    
+    }
+        
+    </script>
+
+
+</body>
+</html>
