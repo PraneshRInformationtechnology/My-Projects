@@ -1,0 +1,95 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.body{
+  height: 100vh;
+  width: 100%;
+  background-image: url("climate.jpg");
+  background-repeat: no-repeat;
+  background-size:cover ;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  
+}
+.weather{
+   height: 400px;
+   width:300px;
+   border: 2px solid black;
+   display: flex;
+  flex-direction: column;
+  align-items: center;
+  backdrop-filter: blur(5px) saturate(150%);
+  background-color: rgba(255, 255, 255, 0.2);
+  border-radius: 12px;
+  border: 1px solid rgba(209, 213, 219, 0.3);
+ 
+}
+h1{
+  margin-top: 30px;
+  margin-bottom: 30px;
+ color: black;
+  opacity: 1;
+}
+.enter{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.input{
+  height:40px;
+  width: 280px;
+  font-size: 18px;
+  border-radius: 10px;
+  background: transparent;
+  color: black;
+  border: none;
+}
+button {
+  align-items: center;
+  background-color: initial;
+  background-image: linear-gradient(rgba(233, 152, 31, 0.84), rgba(248, 186, 52, 0.84) 50%);
+  border-radius: 42px;
+  border-width: 0;
+  box-shadow: rgba(241, 194, 63, 0.644) 0 2px 2px,rgba(247, 235, 126, 0.425) 0 8px 12px;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: flex;
+  font-family: Quicksand,sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  justify-content: center;
+  letter-spacing: .04em;
+  line-height: 5px;
+  margin: 0;
+  padding: 9px 9px;
+  text-align: center;
+  text-decoration: none;
+  text-shadow: rgba(255, 255, 255, 0.4) 0 0 4px,rgba(255, 255, 255, 0.2) 0 0 12px,rgba(57, 31, 91, 0.6) 1px 1px 4px,rgba(57, 31, 91, 0.32) 4px 4px 16px;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: baseline;
+}
+
+button:hover {
+  background-image: linear-gradient(rgba(192, 127, 29, 0.84), rgba(248, 186, 52, 0.84) 50%);
+
+}
+
+@media (min-width: 768px) {
+  button{
+    font-size: 21px;
+    padding: 18px 34px;
+  }
+}
+.output{
+  margin-top: 50px;
+}
+.city-info{
+  line-height: 30px;
+}
