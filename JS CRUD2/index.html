@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JS DEMO</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    
+    <header><h3 class="head">BOOKBLOG</h3></header>
+    <div id="main">
+        <div class="box">
+  
+</div>
+
+
+    <button class="btn-add" onclick="popup()">+</button>
+   
+    <div class="popuplay"></div>
+    <div class="popupbox">
+        <form class="data">
+        <label for="b-name">BOOK NAME :</label>
+        <input type="text"  id="b-name" >
+        <label for="b-auth">AUTHOR :</label>
+        <input type="text" id="b-auth" >
+        <label>Write About Book</label>
+        <textarea  id="b-blog" ></textarea>
+        <button id="save" onclick="updateData(event)">Save</button><button id="cancel" onclick="clear()">Cancel</button>
+        </form>
+    </div>
+    </div>
+    <script>
+        function popup(){
+            let popl=document.querySelector(".popuplay")
+            let popb=document.querySelector(".popupbox")
+            popl.style.display="block";
+            popb.style.display="block";
+        }
+        function clear(){
+            let popl=document.querySelector(".popuplay")
+            let popb=document.querySelector(".popupbox")
+            popl.style.display="none";
+            popb.style.display="none";
+        }
+        function deleted(event){
+            event.target.parentElement.remove()
+        }
+        var div=document.createElement("div")
+        div.setAttribute("class","box")
+        function updateData(event){
+            event.preventDefault()
+            let bookName=document.getElementById("b-name").value
+            let author=document.getElementById("b-auth").value
+            let blog=document.getElementById("b-blog").value
+            let divm=document.getElementById("main")
+            
+            div.innerHTML+= `<div class="container">
+        <h2 class="con-h2">${bookName}</h2>
+        <h3 class="con-h3">${author}</h3>
+        <p>${blog}</p>
+        <button class="btn" onclick="deleted(event)">Delete</button>`
+            
+            divm.append(div)
+
+            clear()
+        }
+          </script>
+    
+</body>
+
+</html>

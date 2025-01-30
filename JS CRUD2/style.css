@@ -1,0 +1,138 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color:bisque;
+}
+header{
+    background-color: orangered;
+    color: black;
+    width: 100%;
+    padding: 3px 0px;
+    margin: 0;
+   
+}
+.box{
+    display: flex;
+    flex-wrap: wrap;
+}
+.head{
+    font-size: 20px;
+    font-weight: 900;
+    letter-spacing: 2px;
+    margin-left: 15px;
+}
+.container{
+    background-color: black;
+    width: 20%;
+    height: auto;
+    margin: 30px 0px 0px 50px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 8px orangered;
+}
+.con-h2{
+    color: orangered;
+    padding: 8px 8px 0px 8px;
+}
+.con-h3{
+    color: rgb(248, 156, 123);
+    padding: 3px 8px;
+}
+p{
+    color: white;
+    padding:0px 15px;
+}
+.btn{
+    background-color: orangered;
+    color: white;
+    padding: 5px;
+    width:80%;
+    border: none;
+    border-radius: 999px;
+    margin: 0px 3px 8px 25px;
+}
+.btn:hover{
+    background-color: rgb(150, 42, 2);
+    color: rgb(206, 203, 203);
+}
+.btn-add{
+    position: fixed;
+    bottom: 30px;
+    right: 40px;
+    padding: 20px;
+    border-radius: 50%;
+    border: none;
+    background-color: orangered;
+    font-weight: 900;
+    font-size: 25px;
+}
+.btn-add:hover{
+    background-color: rgb(150, 42, 2);
+}
+.popuplay{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(99, 96, 96);
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0.8;
+    display: none;
+    z-index: 1;
+}
+.popupbox{
+    width: 300px;
+    height: max-content;
+    position: absolute;
+    top: 200px;
+    left: 500px;
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+    padding: 20PX;
+    display: none;
+    z-index: 3;
+}
+.data{
+    display: flex;
+    flex-direction: column;
+}
+input{
+    padding: 3px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: none;
+    border-radius: 8px;
+}
+textarea{
+    border: none;
+    border-radius: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 3px;
+}
+#save {
+    background-color: orangered;
+    color: white;
+    padding: 5px;
+    margin-top: 5px;
+    border: none;
+    border-radius: 999px;
+}
+#cancel {
+    background-color: orangered;
+    color: white;
+    padding: 5px;
+    margin-top: 5px;
+    border: none;
+    border-radius: 999px;
+}
+#save:hover{
+    background-color: rgb(150, 42, 2);
+    color: rgb(206, 203, 203);
+}
+#cancel:hover{
+    background-color: rgb(150, 42, 2);
+    color: rgb(206, 203, 203);
+}
