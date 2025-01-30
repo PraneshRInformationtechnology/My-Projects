@@ -1,0 +1,382 @@
+[
+    {
+        "id":1,
+        "imgUrl": "https://rukminim1.flixcart.com/image/312/312/k5bcscw0/computer/f/u/j/hp-na-laptop-original-imaferegbpwq9bhc.jpeg?q=70",
+        "title": "HP 15q Core i3 8th Gen",
+        "price": 35740,
+        "rating": "4.3",
+        "properties": [
+            "Intel Core i3 Processor (8th Gen)",
+            "8 GB DDR4 RAM",
+            "64 bit Windows 10 Operating System",
+            "1 TB HDD",
+            "39.62 cm (15.6 inch) Display",
+            "Microsoft Office Home and Student 2019",
+            "1 Year Onsite Warranty"
+        ]
+    },
+    {
+        "id":2,
+        "imgUrl": "https://rukminim1.flixcart.com/image/312/312/kbqu4cw0/computer/t/d/f/hp-original-imaftyzafphshjge.jpeg?q=70",
+        "title": "HP 15s Core i3 10th Gen",
+        "price": 38924,
+        "rating": "4.4",
+        "properties": [
+            "Intel Core i3 Processor (10th Gen)",
+            "8 GB DDR4 RAM",
+            "64 bit Windows 10 Operating System",
+            "1 TB HDD",
+            "39.62 cm (15.6 inch) Display",
+            "Microsoft Office Home and Student 2019, Built in Alexa Support",
+            "1 Year Onsite Warranty"
+        ]
+    },
+    {
+        "id":24,
+        "imgUrl": "https://th.bing.com/th/id/OIP.yDvgrxDMTuD5YdsLObuK0wHaFi?w=248&h=185&c=7&r=0&o=5&pid=1.7",
+        "title": "Acer Aspire 7 Core i5 9th Gen",
+        "price": 56990,
+        "rating": "4.5",
+        "properties": [
+            "Intel Core i5 Processor (9th Gen)",
+            "8 GB DDR4 RAM",
+            "64 bit Windows 10 Operating System",
+            "512 GB SSD",
+            "39.62 cm (15.6 inch) Display",
+            "Acer Collection, Acer Product Registration , Quick Access, Acer Care Center",
+            "1 Year International Travelers Warranty (ITW)"
+        ]
+    },
+    {
+        "id":3,
+        "imgUrl": "https://rukminim1.flixcart.com/image/312/312/k33c4nk0/computer/x/2/v/hp-na-original-imafk9zjggumtu7p.jpeg?q=70",
+        "title": "HP 14q Core i3 8th Gen",
+        "price": 34990,
+        "rating": "4.4",
+        "properties": [
+            "Intel Core i3 Processor (8th Gen)",
+            "8 GB DDR4 RAM",
+            "64 bit Windows 10 Operating System",
+            "256 GB SSD",
+            "35.56 cm (14 inch) Display",
+            "Microsoft Office Home and Student 2019",
+            "1 Year Onsite Warranty"
+        ]
+    },
+    {
+        "id":4,
+        "imgUrl": "https://rukminim1.flixcart.com/image/312/312/kbqu4cw0/computer/t/d/f/hp-original-imaftyzafphshjge.jpeg?q=70",
+        "title": "HP 15s Core i3 10th Gen",
+        "price": 37690,
+        "rating": "4.5",
+        "properties": [
+            "Intel Core i3 Processor (10th Gen)",
+            "4 GB DDR4 RAM",
+            "64 bit Windows 10 Operating System",
+            "1 TB HDD",
+            "39.62 cm (15.6 inch) Display",
+            "Microsoft Office Home and Student 2019, Built in Alexa Support",
+            "1 Year Onsite Warranty"
+        ]
+    },
+    {
+        "id":5,
+        "imgUrl": "https://rukminim1.flixcart.com/image/312/312/kar44280/computer/f/6/p/asus-na-thin-and-light-laptop-original-imafs92tpthajprz.jpeg?q=70",
+        "title": "Asus VivoBook 14 Ryzen 5 Quad Core 2nd Gen",
+        "price": 42990,
+        "rating": "4.4",
+        "properties": [
+            "AMD Ryzen 5 Quad Core Processor (2nd Gen)",
+            "8 GB DDR4 RAM",
+            "64 bit Windows 10 Operating System",
+            "512 GB SSD",
+            "35.56 cm (14 inch) Display",
+            "Asus Giftbox, Asus Live Update",
+            "1 Year Limited International Hardware Warranty"
+        ]
+    },
+    {
+        "id":23,
+        "imgUrl": "https://rukminim1.flixcart.com/image/312/312/ka1e6q80/computer/g/y/n/hp-na-laptop-original-imafrpcdrze7fxjh.jpeg?q=70",
+        "title": "HP 14s Core i5 10th Gen",
+        "price": 52990,
+        "rating": "4.5",
+        "properties": [
+            "HP 14s Core i5 10th Gen",
+            "Intel Core i5 Processor (10th Gen)",
+            "8 GB DDR4 RAM",
+            "64 bit Windows 10 Operating System",
+            "512 GB SSD",
+            "35.56 cm (14 inch) Display",
+            "Microsoft Office Home and Student 2019",
+            "1 Year Onsite Warranty"
+        ]
+    },
+    {
+        "id":6,
+        "imgUrl": "https://rukminim1.flixcart.com/image/312/312/kao98cw0/computer/g/9/u/asus-na-laptop-original-imafs6v8wzctgeau.jpeg?q=70",
+        "title": "Asus VivoBook 15 Ryzen 3 Dual Core",
+        "price": 29990,
+        "rating": "4.2",
+        "properties": [
+            "AMD Ryzen 3 Dual Core Processor",
+            "4 GB DDR4 RAM",
+            "64 bit Windows 10 Operating System",
+            "1 TB HDD",
+            "39.62 cm (15.6 inch) Display",
+            "My Asus, Splendid",
+            "1 Year Onsite Warranty"
+        ]
+    },
+    {
+        "id":7,
+        "imgUrl": "https://rukminim1.flixcart.com/image/312/312/k91o6fk0/computer/m/h/g/asus-original-imafqxfepbjgxjt4.jpeg?q=70",
+        "title": "Asus VivoBook 14 Core i3 10th Gen",
+        "price": 35990,
+        "rating": "4.3",
+        "properties": [
+            "Intel Core i3 Processor (10th Gen)",
+            "4 GB DDR4 RAM",
+            "64 bit Windows 10 Operating System",
+            "256 GB SSD",
+            "35.56 cm (14 inch) Display",
+            "Asus Splendid, Tru2Life",
+            "1 Year Onsite Warranty"
+        ]
+    },
+    {
+        "id":8,
+        "imgUrl": "https://rukminim1.flixcart.com/image/312/312/kcm9t3k0/computer/q/x/r/hp-na-gaming-laptop-original-imaftpesbvfxgw9t.jpeg?q=70",
+        "title": "HP Pavilion Gaming Ryzen 5 Quad Core",
+        "price": 59990,
+        "rating": "4.5",
+        "properties": [
+            "AMD Ryzen 5 Quad Core Processor",
+            "8 GB DDR4 RAM",
+            "64 bit Windows 10 Operating System",
+            "512 GB SSD",
+            "39.62 cm (15.6 inch) Display",
+            "1 Year Onsite Warranty"
+        ]
+    },
+    {
+        "id":9,
+        "imgUrl": "https://rukminim1.flixcart.com/image/312/312/kbqu4cw0/computer/t/d/f/hp-original-imaftyzafphshjge.jpeg?q=70",
+        "title": "HP 15s Core i5 10th Gen",
+        "price": 53990,
+        "rating": "4.5",
+        "properties": [
+            "Intel Core i5 Processor (10th Gen)",
+            "8 GB DDR4 RAM",
+            "64 bit Windows 10 Operating System",
+            "1 TB HDD|256 GB SSD",
+            "39.62 cm (15.6 inch) Display",
+            "Microsoft Office Home and Student 2019, Built in Alexa Support",
+            "1 Year Onsite Warranty"
+        ]
+    },
+    {
+        "id":10,
+        "imgUrl": "https://rukminim1.flixcart.com/image/312/312/jxnksy80/computer/b/p/g/lenovo-na-thin-and-light-laptop-original-imafg2q99fzg6uwz.jpeg?q=70",
+        "title": "Lenovo Ideapad S340 Core i5 10th Gen",
+        "price": 56990,
+        "rating": "4.4",
+        "properties": [
+            "Intel Core i5 Processor (10th Gen)",
+            "8 GB DDR4 RAM",
+            "64 bit Windows 10 Operating System",
+            "1 TB HDD|256 GB SSD",
+            "35.56 cm (14 inch) Display",
+            "Microsoft Office Home and Student 2019",
+            "1 Year Onsite Warranty"
+        ]
+    },
+    {
+        "id":11,
+        "imgUrl": "https://rukminim1.flixcart.com/image/312/312/k3xcdjk0pkrrdj/computer/m/a/v/asus-na-thin-and-light-laptop-original-imafgx9yfugyejkb.jpeg?q=70",
+        "title": "Asus ZenBook Core i5 8th Gen",
+        "price": 47990,
+        "rating": "4.2",
+        "properties": [
+            "Intel Core i5 Processor (8th Gen)",
+            "8 GB DDR3 RAM",
+            "64 bit Windows 10 Operating System",
+            "256 GB SSD",
+            "35.56 cm (14 inch) Display",
+            "Asus Splendid, Asus Smart Gesture, ICEsound",
+            "1 Year Limited International Hardware Warranty"
+        ]
+    },
+    {
+        "id":12,
+        "imgUrl": "https://rukminim1.flixcart.com/image/312/312/kbqu4cw0/computer/f/9/h/asus-na-thin-and-light-laptop-original-imaftfycwh5dpnzs.jpeg?q=70",
+        "title": "Asus VivoBook 15 Ryzen 5 Quad Core",
+        "price": 47990,
+        "rating": "4.6",
+        "properties": [
+            "AMD Ryzen 5 Quad Core Processor",
+            "8 GB DDR4 RAM",
+            "64 bit Windows 10 Operating System",
+            "1 TB HDD|256 GB SSD",
+            "39.62 cm (15.6 inch) Display",
+            "My Asus",
+            "1 Year Onsite Warranty"
+        ]
+    },
+    {
+        "id":13,
+        "imgUrl": "https://rukminim1.flixcart.com/image/312/312/kcm9t3k0/computer/q/x/r/hp-na-gaming-laptop-original-imaftpesbvfxgw9t.jpeg?q=70",
+        "title": "HP Pavilion Gaming Ryzen 5 Quad Core",
+        "price": 54990,
+        "rating": "4.3",
+        "properties": [
+            "AMD Ryzen 5 Quad Core Processor",
+            "8 GB DDR4 RAM",
+            "64 bit Windows 10 Operating System",
+            "1 TB HDD",
+            "39.62 cm (15.6 inch) Display",
+            "1 Year Onsite Warranty"
+        ]
+    },
+    {
+        "id":14,
+        "imgUrl": "https://rukminim1.flixcart.com/image/312/312/k91o6fk0/computer/m/h/g/asus-original-imafqxfepbjgxjt4.jpeg?q=70",
+        "title": "Asus VivoBook 14 Core i5 10th Gen",
+        "price": 59990,
+        "rating": "4.4",
+        "properties": [
+            "Intel Core i5 Processor (10th Gen)",
+            "8 GB DDR4 RAM",
+            "64 bit Windows 10 Operating System",
+            "1 TB HDD|256 GB SSD",
+            "35.56 cm (14 inch) Display",
+            "Asus Splendid, Tru2Life",
+            "1 Year Onsite Warranty"
+        ]
+    },
+    {
+        "id":15,
+        "imgUrl": "https://rukminim1.flixcart.com/image/312/312/kcp4osw0/computer/t/f/z/asus-na-original-imaftrgwna6snfn8.jpeg?q=70",
+        "title": "Asus ROG Strix G15 Core i7 10th Gen",
+        "price": 94990,
+        "rating": "4.8",
+        "properties": [
+            "Intel Core i7 Processor (10th Gen)",
+            "8 GB DDR4 RAM",
+            "64 bit Windows 10 Operating System",
+            "1 TB SSD",
+            "39.62 cm (15.6 inch) Display",
+            "1 Year Onsite Warranty"
+        ]
+    },
+    {
+        "id":16,
+        "imgUrl": "https://rukminim1.flixcart.com/image/312/312/kctf0cw0/computer/s/q/k/dell-original-imaftuvzyhyfmvzy.jpeg?q=70",
+        "title": "Dell Vostro Core i5 10th Gen",
+        "price": 53859,
+        "rating": "4.6",
+        "properties": [
+            "Intel Core i5 Processor (10th Gen)",
+            "8 GB DDR4 RAM",
+            "64 bit Windows 10 Operating System",
+            "1 TB HDD|256 GB SSD",
+            "35.56 cm (14 inch) Display",
+            "Microsoft Office Home and Student 2019",
+            "1 Year Limited Hardware Warranty, In Home Service After Remote Diagnosis - Retail"
+        ]
+    },
+    {
+        "id":17,
+        "imgUrl": "https://rukminim1.flixcart.com/image/312/312/kar44280/computer/q/c/z/asus-na-thin-and-light-laptop-original-imafs92tuvvttfmw.jpeg?q=70",
+        "title": "Asus VivoBook 14 Core i5 8th Gen",
+        "price": 54990,
+        "rating": "4.4",
+        "properties": [
+            "Intel Core i5 Processor (8th Gen)",
+            "8 GB DDR4 RAM",
+            "64 bit Windows 10 Operating System",
+            "512 GB SSD",
+            "35.56 cm (14 inch) Display",
+            "Asus Splendid",
+            "1 Year Limited International Hardware Warranty"
+        ]
+    },
+    {
+        "id":18,
+        "imgUrl": "https://rukminim1.flixcart.com/image/312/312/kd4uj680/computer/e/t/u/lenovo-original-imafu3htwg5y9yqd.jpeg?q=70",
+        "title": "Lenovo Ideapad 3 Core i3 10th Gen",
+        "price": 32990,
+        "rating": "4.3",
+        "properties": [
+            "Intel Core i3 Processor (10th Gen)",
+            "4 GB DDR4 RAM",
+            "64 bit Windows 10 Operating System",
+            "1 TB HDD",
+            "35.56 cm (14 inch) Display",
+            "1 Year Onsite Warranty"
+        ]
+    },
+    {
+        "id":19,
+        "imgUrl": "https://rukminim1.flixcart.com/image/312/312/k55n0y80/computer/u/v/6/asus-na-gaming-laptop-original-imafnf96vnrexbnd.jpeg?q=70",
+        "title": "Asus VivoBook Gaming Core i5 9th Gen",
+        "price": 64990,
+        "rating": "4.4",
+        "properties": [
+            "Intel Core i5 Processor (9th Gen)",
+            "8 GB DDR4 RAM",
+            "64 bit Windows 10 Operating System",
+            "1 TB HDD|256 GB SSD",
+            "39.62 cm (15.6 inch) Display",
+            "1 Year Onsite Warranty"
+        ]
+    },
+    {
+        "id":20,
+        "imgUrl": "https://rukminim1.flixcart.com/image/312/312/kbqu4cw0/computer/t/d/f/hp-original-imaftyzafphshjge.jpeg?q=70",
+        "title": "HP 15s Core i5 10th Gen",
+        "price": 52990,
+        "rating": "4.6",
+        "properties": [
+            "Intel Core i5 Processor (10th Gen)",
+            "8 GB DDR4 RAM",
+            "64 bit Windows 10 Operating System",
+            "512 GB SSD",
+            "39.62 cm (15.6 inch) Display",
+            "Microsoft Office Home and Student 2019",
+            "1 Year Onsite Warranty"
+        ]
+    },
+    {
+        "id":21,
+        "imgUrl": "https://rukminim1.flixcart.com/image/312/312/jzhb24w0/computer/h/6/r/acer-na-original-imafjhu7bzcuhvwk.jpeg?q=70",
+        "title": "HP 15q Core i5 8th Gen",
+        "price": 43990,
+        "rating": "4.2",
+        "properties": [
+            "Intel Core i5 Processor (8th Gen)",
+            "8 GB DDR4 RAM",
+            "64 bit Windows 10 Operating System",
+            "1 TB HDD",
+            "39.62 cm (15.6 inch) Display",
+            "HP Audio Switch, HP Support Assistant",
+            "1 Year Onsite Warranty"
+        ]
+    },
+    {
+        "id":22,
+        "imgUrl": "https://rukminim1.flixcart.com/image/312/312/k33c4nk0pkrrdj/computer/y/h/k/acer-na-thin-and-light-laptop-original-imafhnvjheyngmvq.jpeg?q=70",
+        "title": "Acer Swift 3 Core i5 8th Gen",
+        "price": "₹54,990",
+        "rating": "4.5",
+        "properties": [
+            "Intel Core i5 Processor (8th Gen)",
+            "8 GB DDR4 RAM",
+            "64 bit Windows 10 Operating System",
+            "512 GB SSD",
+            "35.56 cm (14 inch) Display",
+            "Acer Care Center, Acer Quick Access, Acer Configuration Manager",
+            "1 Year International Travelers Warranty (ITW)"
+        ]
+    }
+]
