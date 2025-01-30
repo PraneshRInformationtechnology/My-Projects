@@ -1,0 +1,68 @@
+
+body{
+  margin: 0;
+  padding: 0;
+  background-color: rgb(2,2,41);
+}
+h1{
+  color: #fff;
+  text-align: center;
+  text-transform: uppercase;
+}
+.App{
+  width: 300px;
+  margin: 50px auto;
+  border: none;
+  padding: 20px;
+  box-shadow: 0 0 10px 1px black;
+  background-color:black;
+  border-radius: 20px;
+}
+.dis{
+  font-size: 24px;
+  margin-bottom: 10px;
+  width: 280px;
+  padding: 10px;
+  text-align: end;
+  background-color: white;
+  border: none;
+  border-radius: 20px;
+  
+}
+.button{
+  display: grid;
+  grid-template-columns: repeat(4,1fr);
+  grid-gap: 6px;
+
+}
+button{
+  font-size: 18px;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 22px;
+  cursor: pointer;
+}
+.symbol{
+  background-color: orangered;
+  border: none;
+  color: white;
+}
+.symbol:hover{
+  background-color: white;
+  color:black;
+}
+.clear{
+  background-color: rgb(43, 4, 133);
+  color: black;
+  border: none;
+}
+.equal,.del{
+  grid-column: span 2;
+  background-color:orangered ;
+  color: white;
+  border: none;
+}
+.equal:hover,.del:hover{
+  background-color: white;
+  color: black;
+}
